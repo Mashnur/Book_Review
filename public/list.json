@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://i.ibb.co/vvRXPnK/The-Silent-Patient.jpg",
+        "review": "A gripping psychological thriller that keeps you on the edge of your seat.",
+        "totalPages": 336,
+        "rating": 4.3,
+        "category": "Thriller",
+        "tags": ["Suspense", "Psychological"],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "bookId": 2,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://i.ibb.co/xh1Rs8g/Educated.jpg",
+        "review": "A memoir that reveals the power of education and self-discovery.",
+        "totalPages": 334,
+        "rating": 4.5,
+        "category": "Memoir",
+        "tags": ["Inspirational", "Non-fiction"],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 3,
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://i.ibb.co/sgC5zGz/Becoming.jpg",
+        "review": "An intimate, powerful, and inspiring memoir by the former First Lady.",
+        "totalPages": 448,
+        "rating": 4.8,
+        "category": "Biography",
+        "tags": ["Inspirational", "Autobiography"],
+        "publisher": "Crown",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 4,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/rxt7qcD/1984.jpg",
+        "review": "A dystopian novel that explores themes of surveillance and totalitarianism.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": ["Dystopian", "Classic"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/9GWGkxD/The-Catcher-in-the-Rye.jpg",
+        "review": "A novel about adolescent alienation and loss.",
+        "totalPages": 277,
+        "rating": 4.0,
+        "category": "Fiction",
+        "tags": ["Classic", "Coming of Age"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co/6H5Mdms/The-Alchemist.jpg",
+        "review": "An inspiring tale of following one's dreams.",
+        "totalPages": 208,
+        "rating": 4.2,
+        "category": "Adventure",
+        "tags": ["Spiritual", "Inspirational"],
+        "publisher": "HarperOne",
+        "yearOfPublishing": 1988
+    }
+]
