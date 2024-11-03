@@ -10,6 +10,7 @@ import Home from './components/Home/Home';
 import ErorPage from './components/ErorPage/ErorPage';
 import ListedBooks from './components/ListedBooks/ListedBooks';
 import BookDetails from './components/BookDetails/BookDetails';
+import Progress from './components/Progress/Progress';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
         element:<BookDetails></BookDetails>,
         loader:()=>fetch(`.//list.json`)
         
+      },
+      {
+        path:"/pages",
+        element:<Progress></Progress>
       }
     ],
   },
